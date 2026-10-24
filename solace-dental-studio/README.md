@@ -1,5 +1,9 @@
 # Solace Dental Studio — AI Booking Agent Demo
 
+**Watch the agent work:** Ava, the AI receptionist, takes a patient from first message to a confirmed booking.
+
+![Live demo: Ava books a dental appointment](demo.gif)
+
 A working demo website for a fictional dental clinic in Chicago, built to show how an AI agent handles patient bookings on a clinic website.
 
 ## What it does
