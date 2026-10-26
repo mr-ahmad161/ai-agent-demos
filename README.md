@@ -12,6 +12,7 @@ The businesses are fictional demos, created to show exactly what I can build for
 |---|---|---|
 | [Solace Dental Studio](solace-dental-studio/) | Dental clinic, Chicago | Ava, the AI receptionist, answers patient questions and books appointments end to end: treatment, day, time, name, confirmation. |
 | [Velvet Petal Beauty Studio](velvet-petal-beauty-studio/) | Beauty salon, New York | Mia, the AI receptionist, answers clients in seconds and books salon appointments end to end: service, day, time, name, confirmation, plus a reminder before every visit. |
+| [Harbour View Homes](harbour-view-homes/) | Real estate agency, London | Noah, the AI property assistant, answers buyers in seconds and books property viewings end to end: home, day, time, name, confirmation, plus a reminder before every viewing. |
 
 More projects are added regularly. Each one solves a real problem its business type faces, like missed calls, slow replies or bookings lost after hours.
 
